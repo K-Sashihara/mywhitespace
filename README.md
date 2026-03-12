@@ -6,12 +6,12 @@ please execute the line below
 
 ```python main.py path/to/your/file.ws```
 
-- parser.py
-  parse through your file
+- parser.py 
+  -> parse through your file
 - vm.py
-  VM run follwing your instructions
+  -> VM runs along your instructions
 - main.py
-  intergrate these 2 files above
+  -> intergrate these 2 files above
 
 if you have any questions or find some fault, please feel free to send me an emai! the address is below.
 
