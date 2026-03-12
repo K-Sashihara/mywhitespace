@@ -19,6 +19,8 @@ if you have any questions or find some fault, please feel free to send me an ema
 
 ksphysmath@gmail.com
 
+When you want to know the grammer of whitespace, please visit my website https://k-sashihara.github.io/Agora.github.io/article/whitespace.html or official tutorial!
+
 ## sample program
 
 All sample programs are taken from https://github.com/yasn77/whitepy
