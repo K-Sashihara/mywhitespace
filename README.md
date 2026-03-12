@@ -12,7 +12,9 @@ please execute the line below
   -> VM runs along your instructions
 - main.py
   -> intergrate these 2 files above
-
+- mkwsfile.ws
+  -> make .ws program which outputs your message
+ 
 if you have any questions or find some fault, please feel free to send me an emai! the address is below.
 
 ksphysmath@gmail.com
